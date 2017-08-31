@@ -1,0 +1,22 @@
+.css-movie-image {
+  width: 220px;
+  height: 342px;
+  max-width: 95%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  margin-top: 2.5%;
+  margin-bottom: 0;
+}
+
+.css-movie-text {
+  background-color: #808080;
+  text-align: center;
+  color: #FFFFFF;
+  width: 220px;
+  height: 45px;
+  max-width: 95%;
+  margin-top: 0;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  margin-bottom: 2.5%;
+}
